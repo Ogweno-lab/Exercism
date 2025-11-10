@@ -1,4 +1,0 @@
-/home/ogweno/Exercism/build/CMakeFiles/freelancer-rates.dir
-/home/ogweno/Exercism/build/CMakeFiles/test_freelancer-rates.dir
-/home/ogweno/Exercism/build/CMakeFiles/edit_cache.dir
-/home/ogweno/Exercism/build/CMakeFiles/rebuild_cache.dir
